@@ -3,7 +3,7 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=exzolink&theme=nord&row=1&column=3&no-frame=true&margin-w=3.8" width="500" alt="exzolink" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=exzolink&theme=nord&row=1&column=3&no-frame=true&margin-w=3.8" width="500" alt="exzolink" />
 </p>
 
 <p align="center">
