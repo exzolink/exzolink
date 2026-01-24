@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=exzolink&theme=nord&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&ring=00E4EB" alt="exzolink" />
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=exzolink&theme=nord&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&ring=00E4EB" alt="exzolink" />
 </p>
 
 <p align="center">
